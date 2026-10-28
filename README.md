@@ -1,8 +1,9 @@
 # maj_ar3_path_planner
 
 **Hallgató:** Majoros Roland  
-**Tantárgy:** Alkalmazott járműinformatika (AJR)  
-**Környezet:** ROS 2 Humble Hawksbill  
+**Tantárgy:** Autonóm járművek és robotok programozása (GKNB_AUTM078) 2026-27/1
+  
+ 
 
 ---
 
